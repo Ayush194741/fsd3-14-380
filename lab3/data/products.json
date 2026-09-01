@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "brand": "Apple",
+    "model": "iPhone 15",
+    "price": 69999,
+    "ram": "6GB",
+    "storage": "128GB",
+    "camera": "48MP",
+    "battery": "3349mAh",
+    "os": "iOS"
+  },
+  {
+    "id": 2,
+    "brand": "Samsung",
+    "model": "Galaxy S24",
+    "price": 74999,
+    "ram": "8GB",
+    "storage": "128GB",
+    "camera": "50MP",
+    "battery": "4000mAh",
+    "os": "Android"
+  },
+  {
+    "id": 3,
+    "brand": "OnePlus",
+    "model": "OnePlus 12",
+    "price": 64999,
+    "ram": "12GB",
+    "storage": "256GB",
+    "camera": "50MP",
+    "battery": "5400mAh",
+    "os": "Android"
+  },
+  {
+    "id": 4,
+    "brand": "Google",
+    "model": "Pixel 8",
+    "price": 59999,
+    "ram": "8GB",
+    "storage": "128GB",
+    "camera": "50MP",
+    "battery": "4575mAh",
+    "os": "Android"
+  },
+  {
+    "id": 5,
+    "brand": "Xiaomi",
+    "model": "Xiaomi 14",
+    "price": 69999,
+    "ram": "12GB",
+    "storage": "512GB",
+    "camera": "50MP",
+    "battery": "4610mAh",
+    "os": "Android"
+  },
+  {
+    "id": 6,
+    "brand": "Vivo",
+    "model": "Vivo V30",
+    "price": 33999,
+    "ram": "8GB",
+    "storage": "128GB",
+    "camera": "50MP",
+    "battery": "5000mAh",
+    "os": "Android"
+  },
+  {
+    "id": 7,
+    "brand": "Oppo",
+    "model": "Oppo Reno 11",
+    "price": 32999,
+    "ram": "8GB",
+    "storage": "128GB",
+    "camera": "50MP",
+    "battery": "5000mAh",
+    "os": "Android"
+  },
+  {
+    "id": 8,
+    "brand": "Realme",
+    "model": "Realme GT 6",
+    "price": 40999,
+    "ram": "8GB",
+    "storage": "256GB",
+    "camera": "50MP",
+    "battery": "5500mAh",
+    "os": "Android"
+  },
+  {
+    "id": 9,
+    "brand": "Nothing",
+    "model": "Nothing Phone 2",
+    "price": 44999,
+    "ram": "12GB",
+    "storage": "256GB",
+    "camera": "50MP",
+    "battery": "4700mAh",
+    "os": "Android"
+  },
+  {
+    "id": 10,
+    "brand": "Motorola",
+    "model": "Motorola Edge 50 Pro",
+    "price": 39999,
+    "ram": "12GB",
+    "storage": "256GB",
+    "camera": "50MP",
+    "battery": "4500mAh",
+    "os": "Android"
+  }
+]
